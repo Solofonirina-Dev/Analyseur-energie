@@ -25,7 +25,7 @@ ou d'ignorer silencieusement les erreurs.
 ## Installation
 
 ```bash
-git clone https://github.com/TON_PSEUDO/analyseur-energie.git
+git clone https://github.com/Solofonirina-Dev/Analyseur-energie.git
 cd analyseur-energie
 pip install -r requirements.txt
 ```
